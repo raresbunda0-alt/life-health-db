@@ -34,7 +34,7 @@ Download date: 11.11.2026
 
 
 
-License: World Bank data is CC BY 4.0. WHO terms of use: still to be checked and copied here.
+License: World Bank data is CC BY 4.0. WHO GHO data: CC BY-NC-SA 3.0 IGO (non-commercial use, attribution required) and copied here.
 
 
 
